@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica8_Intent</string>
+    <string name="tv1">Primer Activity</string>
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="tv2">Segundo Activity</string>
+    <string name="BotonAnterior">Anterior</string>
+</resources>
